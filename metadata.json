@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Study Reader",
+  "description": "An immersive PDF reading and study application designed to feel like a real book. Features text highlighting, side-bar annotations, and AI-powered synonyms and meanings using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
